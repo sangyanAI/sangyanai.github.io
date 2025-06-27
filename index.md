@@ -1,13 +1,15 @@
 ---
-title: Jekyll Serif Theme
+title: Sangyan AI
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: Building cognitive, empathic agents 
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Sangyan AI
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Empowering communities with AI agents that understand people
+
+Backed by science ''|'' fueled by empathy
